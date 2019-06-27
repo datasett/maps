@@ -1,0 +1,9 @@
+fiona
+Shapely==1.6.4.post2
+descartes==1.1.0
+geopandas==0.4.0
+matplotlib==3.0.3
+rtree==0.8.3
+simplification==0.4.2
+vega
+altair
