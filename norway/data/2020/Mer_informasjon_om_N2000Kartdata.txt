@@ -1,0 +1,4 @@
+Ønskes mer informasjon om N2000 Kartdata finnes dette på www.geonorge.no. Her ligger blant annet: generell informasjon om datasettet, produktspesifikasjon, produktark og mulighet for nedlasting av datasettet.
+Direktelink til N2000 Kartdata: https://kartkatalog.geonorge.no/metadata/kartverket/n2000-kartdata/8d52075d-6ef6-4120-8041-d0c0901f21f7
+
+
